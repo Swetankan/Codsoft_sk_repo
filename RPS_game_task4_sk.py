@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #This is Rock, Paper and Scissor game developed by Swetankan Kumar Sinha (Batch A28)
 
 # importing Random Module 
